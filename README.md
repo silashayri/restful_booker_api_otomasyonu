@@ -9,5 +9,3 @@ Bu proje, [Restful-Booker](http://restful-booker.herokuapp.com/apidoc/index.html
 - **Rest Assured**: API test otomasyonu için kullanılan Java kütüphanesi
 - **TestNG**: Test framework'ü
 - **Jackson**: JSON serialization/deserialization için kullanılan kütüphane
-
-## Proje Yapısı 
