@@ -1,11 +1,11 @@
-# Restful-Booker API Test Otomasyonu
+# Restful-Booker API Test Automation
 
-Bu proje, [Restful-Booker](http://restful-booker.herokuapp.com/apidoc/index.html) API'sini test etmek için oluşturulmuş bir test otomasyon projesidir.
+This project is a test automation framework designed to test the [Restful-Booker](http://restful-booker.herokuapp.com/apidoc/index.html) API.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
-- **Java 11**: Programlama dili
-- **Maven**: Bağımlılık yönetimi ve proje yapılandırması
-- **Rest Assured**: API test otomasyonu için kullanılan Java kütüphanesi
-- **TestNG**: Test framework'ü
-- **Jackson**: JSON serialization/deserialization için kullanılan kütüphane
+- **Java 11**: Programming language
+- **Maven**: Dependency management and project configuration
+- **Rest Assured**: Java library for API test automation
+- **TestNG**: Testing framework
+- **Jackson**: Library for JSON serialization/deserialization
